@@ -6,4 +6,4 @@ Stopwatch Webapp
 Web Developer Internship
 
 Deploy:
-https://prodigy-wd-01-ochre.vercel.app/
+https://prodigy-wd-02-two.vercel.app/
