@@ -2,8 +2,7 @@ Internship Prodigy Infotech
 https://prodigyinfotech.dev/
 #ProdigyInfotech
 
-Interactive Navigation Menu
-
+Stopwatch Webapp
 Web Developer Internship
 
 Deploy:
